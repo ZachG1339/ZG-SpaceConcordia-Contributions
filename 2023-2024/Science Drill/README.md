@@ -1,6 +1,6 @@
 # Science Drill
 
-**THIS IS A WORK IN PROGRESS**
+**THIS IS A WORK IN PROGRESS** Last update February 2024
 
 
 ![image](https://github.com/ZachG1339/ZG-SpaceConcordia-Contributions/assets/121523537/372f2ef0-5001-494b-8dc7-6aee8d655f30)
